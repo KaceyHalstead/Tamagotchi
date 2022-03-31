@@ -1,0 +1,3 @@
+﻿  Tamagotchi.cpp
+D:\C++\Tamagotchi\Tamagotchi\Tamagotchi.cpp(160,13): warning C4101:  'i': unreferenced local variable
+  Tamagotchi.vcxproj -> D:\C++\Tamagotchi\Debug\Tamagotchi.exe
